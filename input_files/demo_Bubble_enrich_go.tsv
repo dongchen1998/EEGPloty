@@ -1,0 +1,27 @@
+Class	ID	Description	Count	GeneRatio	P.adjust
+MF	GO:0003924	GTPase activity	24	24/646	1.29E-05
+MF	GO:0016887	ATPase activity	31	31/646	1.39E-05
+MF	GO:0005525	GTP binding	26	26/646	2.63E-05
+MF	GO:0003676	nucleic acid binding	45	45/646	0.000906124
+MF	GO:0004842	ubiquitin-protein transferase activity	9	9/646	0.001208201
+MF	GO:0005085	guanyl-nucleotide exchange factor activity	10	10/646	0.001495814
+MF	GO:0017056	structural constituent of nuclear pore	6	6/646	0.003082665
+MF	GO:0004672	protein kinase activity	30	30/646	0.005755555
+MF	GO:0003723	RNA binding	32	32/646	0.007359525
+MF	GO:0031267	small GTPase binding	6	6/646	0.02120568
+MF	GO:0000166	nucleotide binding	18	18/646	0.022488058
+MF	GO:0016772	"transferase activity, transferring phosphorus-containing groups"	6	6/646	0.026830421
+MF	GO:0061630	ubiquitin protein ligase activity	7	7/646	0.027015953
+MF	GO:0000155	phosphorelay sensor kinase activity	5	5/646	0.027015953
+MF	GO:0004843	thiol-dependent ubiquitin-specific protease activity	7	7/646	0.032133951
+MF	GO:0004386	helicase activity	7	7/646	0.040202239
+BP	GO:0007165	signal transduction	20	20/449	1.18E-07
+BP	GO:0006260	DNA replication	12	12/449	0.010451715
+BP	GO:0006468	protein phosphorylation	29	29/449	0.018682175
+BP	GO:0016310	phosphorylation	6	6/449	0.021145101
+BP	GO:0016579	protein deubiquitination	7	7/449	0.022575835
+BP	GO:0006511	ubiquitin-dependent protein catabolic process	10	10/449	0.024833796
+BP	GO:0000160	phosphorelay signal transduction system	6	6/449	0.029119026
+BP	GO:0006270	DNA replication initiation	5	5/449	0.029479578
+BP	GO:0006886	intracellular protein transport	12	12/449	0.04067715
+CC	GO:0005634	nucleus	24	24/183	0.016415386
