@@ -28,7 +28,7 @@ from script.Help import Manual
 
 def main():
     # 设置工作目录
-    workdir = f'C:/Users/Breo/Desktop/ProAnaVis'
+    workdir = f'ProAnaVis_v1.py'
     
     # 设置网页标题
     st.set_page_config(page_title='ProAnaVis', layout='wide')
